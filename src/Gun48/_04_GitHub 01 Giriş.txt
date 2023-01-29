@@ -1,0 +1,32 @@
+İntellij de yeni proje açtıktan sonra aşağıda terminale tıklayıp
+uzantının sonuna
+"git init" yazıp enter a tıkladığımızda ilgili klasörün içine gizli bir ".git"
+  isimli bir klasör açar.
+"git status" yaz ve enter de. (durum kontrolü)
+"cd src" dosyaya git
+"cd gun01"
+"git add Ogrenci.java"
+tekrar,
+"git status" diyelim.
+yaptığımız değişikliğe bir isim verelim.
+" git commit -m "first commit" "
+"git status"
+"git branch -M main"
+"git remote add origin https://github.com/ofyekeler/GitProje.git"
+"git push -u origin main"
+
+otomatik yapmak istediğimizde açılan class da çıkan pencereye "add" de.
+VCS -> Enable Version Control Integration.
+işini bitirdikten sonra;
+commit
+"açıklama yaz" commit
+push.
+
+**********************************
+
+Class'a sağ click "Git" -> "Add" dersek takibe alır.
+işlemler sonrası intellij sol altta bulunan "Git" e tıkladığında, geçmiş "commit" leri gösterir.
+
+İntellij üst bölümde "Git" -> "GitHub" -> "Share Project On GitHub" dersek paylaşır.
+
+

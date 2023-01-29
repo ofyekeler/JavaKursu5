@@ -1,0 +1,9 @@
+
+public final class Tasitlar() {
+    String model;
+}
+
+extends; Final classlardan miras alınamaz.
+Main gibi yerlerde direk çağrılarak kullanılabilir.
+Main de kullanım kısmında bir sınırlama yok. Birden fazla çağğırılabiliyor
+    fakat başka class a extend edilemez.

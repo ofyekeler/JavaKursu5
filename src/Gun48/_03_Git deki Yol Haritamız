@@ -1,0 +1,17 @@
+https://git-scm.com/downloads   linkinden GIT i yükledik.
+intellij -> file -> settings -> git -> test yaparak yüklendiğini kontrol et.
+
+Git deki yol Haritamız
+
+1- Kendi projelrimizi geliştireceğimiz model
+   a) Süreçleri iyi anlamak için komut satırından işlemleri yapacağız
+   b) Aynı işlemleri Intellij den yapacağız.
+
+2- Öğretmen-öğrenci modeli (tek yönlü, öğretmenden öğrenciye..)
+   a) 2 ayrı proje
+   b) tek projede ayrı paket yöntemi
+   c) süper yöntem (branch)
+
+3- Grup çalışması (2 yönlü)
+   Merkezde bir proje var onun bir sahibi,
+   Bu projeye katkı sunan ortaklar var

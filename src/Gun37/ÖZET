@@ -1,0 +1,9 @@
+OOP
+- INTERFACE: Mecburi olarak metodlar yazılımını zorunlu tutuyordu.
+Bize, kendi olan metodları mutlaka implement etmemizi yani, içini doldurmamızı istiyordu.
+Bir yazılım planlama yöntemi. Yani bir çok class aynı işi yapacaksa
+aynı şekilde bu metodları yazma zorunluluğu oluşturarak bir yazılım planlaması yaptırıyor.
+
+- INHERITANCE:
+- POLIMORPHISM: Bazen dahil ederler bazen etmezler. Inheritance nin bir değişik versiyonu.
+- Encapsulation

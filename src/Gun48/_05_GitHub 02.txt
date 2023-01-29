@@ -1,0 +1,29 @@
+İş Başvurularında CV verirken;
+
+CV
+Faruk YEKELER
+Yaptığım işler
+Linked linki
+Yaptığım örnek projeler: GitHub linki
+
+-> commit sonrası çıkan "Amend" tik kutucuğunu işaretlersen, içeriğinde değişiklik yapmadan
+aynı task ı isim değiştirerek tekrar github a göndermeni sağlar.
+
+-> Paylaşılan link i intellij aktarmak için;
+    File -> New -> Project From Version Control
+
+2- Öğretmen-öğrenci modeli (tek yönlü, öğretmenden öğrenciye..)
+
+-> Alınan projenin üzerinde hoca tarafından bir değişiklik yapılmış ve hoca tarafından push edilmişse;
+    öğrenci sağ üstten CTRL-T  ile "Update Project" yaparak projenin güncel halini intellij e aktarabilir.
+    Burada sistem tek yönlü. Öğretmen gönderir öğrenci alır.
+    Öğrenci commit yapabilse de push yaparak bir değişikliğe gidip Öğretmenin GitHub ında değişikliğe gidemez.
+    Süreç tek yönlüdür.
+
+-> b) tek projede ayrı paket yöntemi;
+    Gun01Ben diye bir klasör açıp kendi çalışmalarımızı ayrı takip ederiz.
+
+-> c) süper yöntem (branch);
+
+
+

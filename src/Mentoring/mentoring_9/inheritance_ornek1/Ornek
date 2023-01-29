@@ -1,0 +1,8 @@
+
+
+        // Bir kişi oluşturalım, field ları isim, yas, telefonNo, adres, maas.
+        // İki ayrı class oluşturalım. Calisan ve Yonetici classları Kisi classı extend alsın
+        // Calisan -> uzmanlık ve Yonetici -> depertman fieldlara sahip olsun
+        // program 18 yas altında yas bilgisi girildiğinde uyarı mesajı versin.
+        // maaş sıfır veya negatif sayı girilince program uyarı mesajı versin.
+        // Calisan ve Yonetici nesne oluşturup tüm özelliklerini ekrana yazdırın.

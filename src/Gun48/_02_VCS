@@ -1,0 +1,21 @@
+VCS -> Version Control System
+- Her bir değişikliğe bir başlık vererek saklıyor
+- Yapılan bütün değişiklikleri kim ve nezaman yaptı
+- Bir çok kişi tek projede çalıştığında gerekli
+  kontrolleri sağlıyor, çakışmaların yönetimi
+- Kod yönetimi sağlıyor
+
+VCS
+GIT -> Open source VCS: Genel olarak kullanılıyor.ücretsiz.
+TFS -> Microsoft un VCS: ücretli
+SVN Tortuese -> ücretsiz, open source
+
+%80 - 90 Git
+----------------------
+GİT nedir? GİTHUB nedir ?
+
+Hub -> merkez , toplanma yeri,
+
+bu Hub -> GitHub -> Git in Web deki Cloud hali
+github.com -> firma ya ait cloud
+gitlab.com
